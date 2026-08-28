@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/slate_800">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Finish &amp; Save Route"
+        android:textColor="@color/offroute_orange"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Route Name -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Route Name"
+        android:textColor="@color/text_muted"
+        android:textSize="12sp"
+        android:layout_marginBottom="4dp" />
+    <EditText
+        android:id="@+id/etRouteName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@color/text_muted"
+        android:paddingHorizontal="16dp"
+        android:inputType="textCapWords"
+        android:hint="e.g. Mangalore Express"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Bus Number -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bus Number"
+        android:textColor="@color/text_muted"
+        android:textSize="12sp"
+        android:layout_marginBottom="4dp" />
+    <EditText
+        android:id="@+id/etBusNumber"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@color/text_muted"
+        android:paddingHorizontal="16dp"
+        android:inputType="textCapCharacters"
+        android:hint="e.g. KA-19-XYZ"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Destination -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Final Destination"
+        android:textColor="@color/text_muted"
+        android:textSize="12sp"
+        android:layout_marginBottom="4dp" />
+    <EditText
+        android:id="@+id/etDestination"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@color/text_muted"
+        android:paddingHorizontal="16dp"
+        android:inputType="textCapWords"
+        android:hint="e.g. Pilikula"
+        android:layout_marginBottom="24dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnCancelRoute"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textColor="@color/text_muted"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/btnSaveRoute"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Save Route"
+            android:backgroundTint="@color/offroute_orange"
+            android:textColor="@color/slate_900" />
+    </LinearLayout>
+</LinearLayout>

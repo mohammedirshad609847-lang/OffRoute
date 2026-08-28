@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OffRoute</string>
+    <string name="title_offline_tracker">OffRoute</string>
+    <string name="subtitle_mode">Interpolated Schedule Engine</string>
+    <string name="status_airplane_ready">Offline / Airplane Mode Ready</string>
+    <string name="mode_realtime">System Clock (Real-Time)</string>
+    <string name="mode_simulated">Simulated Time Mode</string>
+    <string name="jump_1755">17:55 (Start)</string>
+    <string name="jump_1802">18:02 (~47%)</string>
+    <string name="jump_1810">18:10 (Stop B)</string>
+    <string name="jump_1820">18:20 (Arrived)</string>
+    <string name="label_last_stop">Last Passed:</string>
+    <string name="label_next_stop">Next Stop:</string>
+    <string name="label_eta">ETA Countdown:</string>
+    <string name="label_progress">Overall Trip Progress:</string>
+</resources>

@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "route_45",
+    "name": "Route 45",
+    "busNumber": "BUS-45",
+    "destination": "Katipalla",
+    "stops": [
+      {
+        "id": "stop_45_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_45_1",
+        "name": "Kottara Cross",
+        "latitude": 12.895,
+        "longitude": 74.83,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_45_2",
+        "name": "Panambur",
+        "latitude": 12.93,
+        "longitude": 74.8,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_45_3",
+        "name": "Suratkal",
+        "latitude": 12.985,
+        "longitude": 74.792,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_45_4",
+        "name": "Katipalla",
+        "latitude": 12.975,
+        "longitude": 74.805,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_45A",
+    "name": "Route 45A",
+    "busNumber": "BUS-45A",
+    "destination": "Katipalla",
+    "stops": [
+      {
+        "id": "stop_45A_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_45A_1",
+        "name": "Suratkal",
+        "latitude": 12.985,
+        "longitude": 74.792,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_45A_2",
+        "name": "Katipalla",
+        "latitude": 12.975,
+        "longitude": 74.805,
+        "scheduledTime": "07:16"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_42",
+    "name": "Route 42",
+    "busNumber": "BUS-42",
+    "destination": "Bajpe Airport",
+    "stops": [
+      {
+        "id": "stop_42_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_42_1",
+        "name": "KPT",
+        "latitude": 12.897,
+        "longitude": 74.85,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_42_2",
+        "name": "Kavoor",
+        "latitude": 12.915,
+        "longitude": 74.844,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_42_3",
+        "name": "Maravoor",
+        "latitude": 12.94,
+        "longitude": 74.87,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_42_4",
+        "name": "Bajpe",
+        "latitude": 12.964,
+        "longitude": 74.882,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_36",
+    "name": "Route 36",
+    "busNumber": "BUS-36",
+    "destination": "NITK Surathkal",
+    "stops": [
+      {
+        "id": "stop_36_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_36_1",
+        "name": "Urva Stores",
+        "latitude": 12.903,
+        "longitude": 74.824,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_36_2",
+        "name": "Kulur",
+        "latitude": 12.922,
+        "longitude": 74.812,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_36_3",
+        "name": "Suratkal",
+        "latitude": 12.985,
+        "longitude": 74.792,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_36_4",
+        "name": "NITK Surathkal",
+        "latitude": 13.01,
+        "longitude": 74.792,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_27",
+    "name": "Route 27",
+    "busNumber": "BUS-27",
+    "destination": "Mangaladevi",
+    "stops": [
+      {
+        "id": "stop_27_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_27_1",
+        "name": "Pandeshwar",
+        "latitude": 12.86,
+        "longitude": 74.84,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_27_2",
+        "name": "Mangaladevi",
+        "latitude": 12.852,
+        "longitude": 74.845,
+        "scheduledTime": "07:16"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_30A",
+    "name": "Route 30A",
+    "busNumber": "BUS-30A",
+    "destination": "Adyar",
+    "stops": [
+      {
+        "id": "stop_30A_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_30A_1",
+        "name": "Pumpwell",
+        "latitude": 12.871,
+        "longitude": 74.87,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_30A_2",
+        "name": "Padil",
+        "latitude": 12.877,
+        "longitude": 74.885,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_30A_3",
+        "name": "Adyar",
+        "latitude": 12.875,
+        "longitude": 74.912,
+        "scheduledTime": "07:24"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_12",
+    "name": "Route 12",
+    "busNumber": "BUS-12",
+    "destination": "Bondel",
+    "stops": [
+      {
+        "id": "stop_12_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_12_1",
+        "name": "Jyothi",
+        "latitude": 12.872,
+        "longitude": 74.848,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_12_2",
+        "name": "Kadri",
+        "latitude": 12.888,
+        "longitude": 74.856,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_12_3",
+        "name": "Yeyyadi",
+        "latitude": 12.905,
+        "longitude": 74.852,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_12_4",
+        "name": "Bondel",
+        "latitude": 12.908,
+        "longitude": 74.858,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_1",
+    "name": "Route 1",
+    "busNumber": "BUS-1",
+    "destination": "Kunjathbail",
+    "stops": [
+      {
+        "id": "stop_1_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_1_1",
+        "name": "Car Street",
+        "latitude": 12.873,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_1_2",
+        "name": "Mannagudda",
+        "latitude": 12.885,
+        "longitude": 74.832,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_1_3",
+        "name": "Ladyhill",
+        "latitude": 12.888,
+        "longitude": 74.829,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_1_4",
+        "name": "Chilimbi",
+        "latitude": 12.894,
+        "longitude": 74.826,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_1_5",
+        "name": "Urva Stores",
+        "latitude": 12.903,
+        "longitude": 74.824,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_1_6",
+        "name": "Kavoor",
+        "latitude": 12.915,
+        "longitude": 74.844,
+        "scheduledTime": "07:48"
+      },
+      {
+        "id": "stop_1_7",
+        "name": "MCF Colony",
+        "latitude": 12.94,
+        "longitude": 74.815,
+        "scheduledTime": "07:56"
+      },
+      {
+        "id": "stop_1_8",
+        "name": "Kunjathbail",
+        "latitude": 12.923,
+        "longitude": 74.837,
+        "scheduledTime": "08:04"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_1A",
+    "name": "Route 1A",
+    "busNumber": "BUS-1A",
+    "destination": "Thannirbavi",
+    "stops": [
+      {
+        "id": "stop_1A_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_1A_1",
+        "name": "Lalbagh",
+        "latitude": 12.88,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_1A_2",
+        "name": "Urva Stores",
+        "latitude": 12.903,
+        "longitude": 74.824,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_1A_3",
+        "name": "Kulur",
+        "latitude": 12.922,
+        "longitude": 74.812,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_1A_4",
+        "name": "Thannirbavi",
+        "latitude": 12.912,
+        "longitude": 74.802,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_1B",
+    "name": "Route 1B",
+    "busNumber": "BUS-1B",
+    "destination": "Kodikal",
+    "stops": [
+      {
+        "id": "stop_1B_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_1B_1",
+        "name": "Car Street",
+        "latitude": 12.873,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_1B_2",
+        "name": "Mannagudda",
+        "latitude": 12.885,
+        "longitude": 74.832,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_1B_3",
+        "name": "Ladyhill",
+        "latitude": 12.888,
+        "longitude": 74.829,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_1B_4",
+        "name": "Chilimbi",
+        "latitude": 12.894,
+        "longitude": 74.826,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_1B_5",
+        "name": "Urva Stores",
+        "latitude": 12.903,
+        "longitude": 74.824,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_1B_6",
+        "name": "Kodikal",
+        "latitude": 12.909,
+        "longitude": 74.822,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_2",
+    "name": "Route 2",
+    "busNumber": "BUS-2",
+    "destination": "Mukka",
+    "stops": [
+      {
+        "id": "stop_2_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_2_1",
+        "name": "Lalbagh",
+        "latitude": 12.88,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_2_2",
+        "name": "Ashoknagar",
+        "latitude": 12.895,
+        "longitude": 74.836,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_2_3",
+        "name": "Baikampady",
+        "latitude": 12.94,
+        "longitude": 74.806,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_2_4",
+        "name": "Suratkal",
+        "latitude": 12.985,
+        "longitude": 74.792,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_2_5",
+        "name": "Mukka",
+        "latitude": 13.01,
+        "longitude": 74.786,
+        "scheduledTime": "07:40"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_2A",
+    "name": "Route 2A",
+    "busNumber": "BUS-2A",
+    "destination": "Sasihitlu",
+    "stops": [
+      {
+        "id": "stop_2A_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_2A_1",
+        "name": "Lalbagh",
+        "latitude": 12.88,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_2A_2",
+        "name": "Ashoknagar",
+        "latitude": 12.895,
+        "longitude": 74.836,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_2A_3",
+        "name": "Baikampady",
+        "latitude": 12.94,
+        "longitude": 74.806,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_2A_4",
+        "name": "Suratkal",
+        "latitude": 12.985,
+        "longitude": 74.792,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_2A_5",
+        "name": "Mukka",
+        "latitude": 13.01,
+        "longitude": 74.786,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_2A_6",
+        "name": "Sasihitlu",
+        "latitude": 13.045,
+        "longitude": 74.77,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_5",
+    "name": "Route 5",
+    "busNumber": "BUS-5",
+    "destination": "Morgan Gate",
+    "stops": [
+      {
+        "id": "stop_5_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_5_1",
+        "name": "Jyothi",
+        "latitude": 12.872,
+        "longitude": 74.848,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_5_2",
+        "name": "Bendoorwell",
+        "latitude": 12.875,
+        "longitude": 74.855,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_5_3",
+        "name": "Kankanady",
+        "latitude": 12.873,
+        "longitude": 74.862,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_5_4",
+        "name": "Nandigudda",
+        "latitude": 12.86,
+        "longitude": 74.853,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_5_5",
+        "name": "Marnamikatta",
+        "latitude": 12.855,
+        "longitude": 74.855,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_5_6",
+        "name": "Morgan Gate",
+        "latitude": 12.85,
+        "longitude": 74.851,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_6",
+    "name": "Route 6",
+    "busNumber": "BUS-6",
+    "destination": "Shaktinagar",
+    "stops": [
+      {
+        "id": "stop_6_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_6_1",
+        "name": "Jyothi",
+        "latitude": 12.872,
+        "longitude": 74.848,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_6_2",
+        "name": "Bunts Hostel",
+        "latitude": 12.878,
+        "longitude": 74.852,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_6_3",
+        "name": "Mallikatte",
+        "latitude": 12.883,
+        "longitude": 74.858,
+        "scheduledTime": "07:24"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_7",
+    "name": "Route 7",
+    "busNumber": "BUS-7",
+    "destination": "Urva Stores",
+    "stops": [
+      {
+        "id": "stop_7_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_7_1",
+        "name": "Car Street",
+        "latitude": 12.873,
+        "longitude": 74.838,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_7_2",
+        "name": "Alake",
+        "latitude": 12.88,
+        "longitude": 74.836,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_7_3",
+        "name": "Mannagudda",
+        "latitude": 12.885,
+        "longitude": 74.832,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_7_4",
+        "name": "Ladyhill",
+        "latitude": 12.888,
+        "longitude": 74.829,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_7_5",
+        "name": "Chilimbi",
+        "latitude": 12.894,
+        "longitude": 74.826,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_7_6",
+        "name": "Urva Stores",
+        "latitude": 12.903,
+        "longitude": 74.824,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_9",
+    "name": "Route 9",
+    "busNumber": "BUS-9",
+    "destination": "Bajal",
+    "stops": [
+      {
+        "id": "stop_9_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_9_1",
+        "name": "Pandeshwar",
+        "latitude": 12.86,
+        "longitude": 74.84,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_9_2",
+        "name": "Jeppu",
+        "latitude": 12.852,
+        "longitude": 74.848,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_9_3",
+        "name": "Morgan Gate",
+        "latitude": 12.85,
+        "longitude": 74.851,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_9_4",
+        "name": "Bajal",
+        "latitude": 12.855,
+        "longitude": 74.875,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_10",
+    "name": "Route 10",
+    "busNumber": "BUS-10",
+    "destination": "Adyar",
+    "stops": [
+      {
+        "id": "stop_10_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_10_1",
+        "name": "Balmatta",
+        "latitude": 12.874,
+        "longitude": 74.85,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_10_2",
+        "name": "Jyothi",
+        "latitude": 12.872,
+        "longitude": 74.848,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_10_3",
+        "name": "Kankanady",
+        "latitude": 12.873,
+        "longitude": 74.862,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_10_4",
+        "name": "Pumpwell",
+        "latitude": 12.871,
+        "longitude": 74.87,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_10_5",
+        "name": "Adyar",
+        "latitude": 12.875,
+        "longitude": 74.912,
+        "scheduledTime": "07:40"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_11",
+    "name": "Route 11B",
+    "busNumber": "BUS-11",
+    "destination": "Padil",
+    "stops": [
+      {
+        "id": "stop_11_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_11_1",
+        "name": "Falnir",
+        "latitude": 12.869,
+        "longitude": 74.853,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_11_2",
+        "name": "Kankanady",
+        "latitude": 12.873,
+        "longitude": 74.862,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_11_3",
+        "name": "Nagori",
+        "latitude": 12.875,
+        "longitude": 74.872,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_11_4",
+        "name": "Padil",
+        "latitude": 12.877,
+        "longitude": 74.885,
+        "scheduledTime": "07:32"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_12A",
+    "name": "Route 12A",
+    "busNumber": "BUS-12A",
+    "destination": "Vamanjoor",
+    "stops": [
+      {
+        "id": "stop_12A_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_12A_1",
+        "name": "Bunts Hostel",
+        "latitude": 12.878,
+        "longitude": 74.852,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_12A_2",
+        "name": "Mallikatte",
+        "latitude": 12.883,
+        "longitude": 74.858,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_12A_3",
+        "name": "Kadri",
+        "latitude": 12.888,
+        "longitude": 74.856,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_12A_4",
+        "name": "Kulshekar",
+        "latitude": 12.894,
+        "longitude": 74.878,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_12A_5",
+        "name": "Vamanjoor",
+        "latitude": 12.923,
+        "longitude": 74.898,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_12A_6",
+        "name": "Gurupura",
+        "latitude": 12.95,
+        "longitude": 74.915,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_13",
+    "name": "Route 13",
+    "busNumber": "BUS-13",
+    "destination": "Bondel",
+    "stops": [
+      {
+        "id": "stop_13_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_13_1",
+        "name": "Mannagudda",
+        "latitude": 12.885,
+        "longitude": 74.832,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_13_2",
+        "name": "Ladyhill",
+        "latitude": 12.888,
+        "longitude": 74.829,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_13_3",
+        "name": "Hudco Colony",
+        "latitude": 12.9,
+        "longitude": 74.835,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_13_4",
+        "name": "Kavoor",
+        "latitude": 12.915,
+        "longitude": 74.844,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_13_5",
+        "name": "Bondel",
+        "latitude": 12.908,
+        "longitude": 74.858,
+        "scheduledTime": "07:40"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_14",
+    "name": "Route 14",
+    "busNumber": "BUS-14",
+    "destination": "Bondel",
+    "stops": [
+      {
+        "id": "stop_14_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_14_1",
+        "name": "Jyothi",
+        "latitude": 12.872,
+        "longitude": 74.848,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_14_2",
+        "name": "Bendoorwell",
+        "latitude": 12.875,
+        "longitude": 74.855,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_14_3",
+        "name": "Mallikatte",
+        "latitude": 12.883,
+        "longitude": 74.858,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_14_4",
+        "name": "Kadri",
+        "latitude": 12.888,
+        "longitude": 74.856,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_14_5",
+        "name": "KPT",
+        "latitude": 12.897,
+        "longitude": 74.85,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_14_6",
+        "name": "Yeyyadi",
+        "latitude": 12.905,
+        "longitude": 74.852,
+        "scheduledTime": "07:48"
+      },
+      {
+        "id": "stop_14_7",
+        "name": "Konchadi",
+        "latitude": 12.912,
+        "longitude": 74.848,
+        "scheduledTime": "07:56"
+      },
+      {
+        "id": "stop_14_8",
+        "name": "Bondel",
+        "latitude": 12.908,
+        "longitude": 74.858,
+        "scheduledTime": "08:04"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_31",
+    "name": "Route 31",
+    "busNumber": "BUS-31",
+    "destination": "Dombel",
+    "stops": [
+      {
+        "id": "stop_31_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_31_1",
+        "name": "PVS Circle",
+        "latitude": 12.876,
+        "longitude": 74.843,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_31_2",
+        "name": "Empire Mall",
+        "latitude": 12.88,
+        "longitude": 74.843,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_31_3",
+        "name": "Ballalbagh",
+        "latitude": 12.885,
+        "longitude": 74.838,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_31_4",
+        "name": "Lalbagh",
+        "latitude": 12.88,
+        "longitude": 74.838,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_31_5",
+        "name": "Urva Market",
+        "latitude": 12.89,
+        "longitude": 74.833,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_31_6",
+        "name": "Ashoknagar",
+        "latitude": 12.895,
+        "longitude": 74.836,
+        "scheduledTime": "07:48"
+      },
+      {
+        "id": "stop_31_7",
+        "name": "Dombel",
+        "latitude": 12.895,
+        "longitude": 74.825,
+        "scheduledTime": "07:56"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_33",
+    "name": "Route 33",
+    "busNumber": "BUS-33",
+    "destination": "Konchadi",
+    "stops": [
+      {
+        "id": "stop_33_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_33_1",
+        "name": "PVS Circle",
+        "latitude": 12.876,
+        "longitude": 74.843,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_33_2",
+        "name": "Kottara Cross",
+        "latitude": 12.895,
+        "longitude": 74.83,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_33_3",
+        "name": "Kuntikana",
+        "latitude": 12.9,
+        "longitude": 74.84,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_33_4",
+        "name": "Derebail",
+        "latitude": 12.905,
+        "longitude": 74.842,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_33_5",
+        "name": "Konchadi",
+        "latitude": 12.912,
+        "longitude": 74.848,
+        "scheduledTime": "07:40"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  },
+  {
+    "id": "route_47",
+    "name": "Route 47",
+    "busNumber": "BUS-47",
+    "destination": "Bajpe",
+    "stops": [
+      {
+        "id": "stop_47_0",
+        "name": "State Bank",
+        "latitude": 12.866,
+        "longitude": 74.8436,
+        "scheduledTime": "07:00"
+      },
+      {
+        "id": "stop_47_1",
+        "name": "Empire Mall",
+        "latitude": 12.88,
+        "longitude": 74.843,
+        "scheduledTime": "07:08"
+      },
+      {
+        "id": "stop_47_2",
+        "name": "Kottara Cross",
+        "latitude": 12.895,
+        "longitude": 74.83,
+        "scheduledTime": "07:16"
+      },
+      {
+        "id": "stop_47_3",
+        "name": "Kuntikana",
+        "latitude": 12.9,
+        "longitude": 74.84,
+        "scheduledTime": "07:24"
+      },
+      {
+        "id": "stop_47_4",
+        "name": "Kavoor",
+        "latitude": 12.915,
+        "longitude": 74.844,
+        "scheduledTime": "07:32"
+      },
+      {
+        "id": "stop_47_5",
+        "name": "Maravoor",
+        "latitude": 12.94,
+        "longitude": 74.87,
+        "scheduledTime": "07:40"
+      },
+      {
+        "id": "stop_47_6",
+        "name": "Bajpe",
+        "latitude": 12.964,
+        "longitude": 74.882,
+        "scheduledTime": "07:48"
+      }
+    ],
+    "waypoints": [],
+    "segmentPaths": []
+  }
+]

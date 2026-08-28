@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Navy / Slate Theme (Matches Logo's Navy) -->
+    <color name="slate_900">#0B294E</color> <!-- Deep Logo Navy -->
+    <color name="slate_800">#153A6A</color> <!-- Lighter Navy -->
+    <color name="slate_700">#23508C</color>
+    
+    <!-- OffRoute Brand Orange -->
+    <color name="offroute_orange">#F27921</color>
+    <color name="offroute_orange_light">#FA9446</color>
+    
+    <color name="red_500">#EF4444</color>
+    <color name="emerald_500">#10B981</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_500">#10B981</color>
+    <color name="offroute_orange">#F27921</color>
+    <color name="offroute_orange_light">#FA9446</color>
+    <color name="red_500">#EF4444</color>
+    <color name="slate_700">#23508C</color>
+    <color name="slate_800">#153A6A</color>
+    <color name="slate_900">#0B294E</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">OffRoute</string>
+    <string name="jump_1755">17:55 (Start)</string>
+    <string name="jump_1802">18:02 (~47%)</string>
+    <string name="jump_1810">18:10 (Stop B)</string>
+    <string name="jump_1820">18:20 (Arrived)</string>
+    <string name="label_eta">ETA Countdown:</string>
+    <string name="label_last_stop">Last Passed:</string>
+    <string name="label_next_stop">Next Stop:</string>
+    <string name="label_progress">Overall Trip Progress:</string>
+    <string name="mode_realtime">System Clock (Real-Time)</string>
+    <string name="mode_simulated">Simulated Time Mode</string>
+    <string name="status_airplane_ready">Offline / Airplane Mode Ready</string>
+    <string name="subtitle_mode">Interpolated Schedule Engine</string>
+    <string name="title_offline_tracker">OffRoute</string>
+    <style name="Theme.OfflineBusTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/offroute_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/slate_800</item>
+        <item name="android:statusBarColor">@color/slate_900</item>
+        <item name="android:windowBackground">@color/slate_900</item>
+    </style>
+</resources>
